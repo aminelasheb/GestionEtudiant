@@ -236,6 +236,8 @@
         android:layout_height="wrap_content"
         android:text="Ajouter"
 android:onClick="ajouter"
+        app:icon="@drawable/ic_add_24dp"
+
         style="@style/Widget.MaterialComponents.Button.TextButton"
         />
 
