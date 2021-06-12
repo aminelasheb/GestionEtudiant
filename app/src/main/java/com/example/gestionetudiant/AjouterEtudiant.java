@@ -3,6 +3,7 @@ package com.example.gestionetudiant;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 
@@ -27,5 +28,8 @@ public class AjouterEtudiant extends AppCompatActivity {
 
 
 
+    }
+
+    public void ajouter(View view) {
     }
 }
